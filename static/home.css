@@ -1,0 +1,44 @@
+#inta{
+  
+  width: 492px;
+  margin-left: auto;
+  margin-right: auto; 
+
+}
+
+#trb{
+ 
+  width: 492px;
+  margin-left: 34%;
+  border-radius: 10px;
+  font-family: "Tahoma";
+
+}
+
+#in1 , #in2{
+
+  outline: none;
+  border-radius: 14px;
+
+}
+
+#fi{
+  
+  margin-left: 34%;
+  
+}
+
+#na{
+
+  background-color: #343434;
+  height: 63px;
+
+}
+
+#na{
+  
+  color: white;
+  font-family: "Tahoma";
+  font-size: 25px;
+
+}
